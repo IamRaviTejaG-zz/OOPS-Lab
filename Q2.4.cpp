@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int x(int a, int b=300);
+int x(int a, int b=300)
 {
 	return (a+b);
 }
